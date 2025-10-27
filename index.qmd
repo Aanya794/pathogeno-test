@@ -1,0 +1,14 @@
+---
+title: "_____"
+Author: "Aanya Patel"
+format:
+ html:
+  toc: true 
+editor: visual
+
+---
+
+## 
+
+[Lab 1](Lab 1.html)
+
